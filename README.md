@@ -1,4 +1,4 @@
-## Hi there !!
+## Hi !!
 
 I’m **Umer Sagri**, a second-year **Computer Science undergraduate at IIT BHU**.
 
