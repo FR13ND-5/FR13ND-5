@@ -12,4 +12,4 @@ Currently exploring:
 - Machine learning research and practical implementations
 - Competitive programming and algorithmic problem-solving
 
-I’m looking to contribute to **Internships and Projects** in System Development, AI, computer vision, and related fields.
+I’m looking to contribute to **Internships and Projects** in Systems Development, AI, computer vision, and related fields.
